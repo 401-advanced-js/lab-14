@@ -6,7 +6,7 @@
 ### Spencer Hirata
 
 ### Links and Resources
-* [PR]()
+* [PR](https://github.com/401-advanced-js/lab-14/pull/1)
 
 [![Build Status](https://travis-ci.com/401-advanced-js/lab-14.svg?branch=master)](https://travis-ci.com/401-advanced-js/lab-14)
 
@@ -17,14 +17,7 @@
 * [jsdoc](https://nameless-lowlands-83867.herokuapp.com/docs)
 
 ### Modules
-#### `modulename.js`
-##### Exported Values and Methods
-
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
+Look at jsdocs
 
 ### Setup
 #### `.env` requirements
