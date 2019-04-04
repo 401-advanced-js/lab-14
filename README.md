@@ -1,29 +1,23 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## Lab14
 
-### Author: Student/Group Name
+### Spencer Hirata
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+* [PR](https://github.com/401-advanced-js/lab-14/pull/1)
+
+[![Build Status](https://travis-ci.com/401-advanced-js/lab-14.svg?branch=master)](https://travis-ci.com/401-advanced-js/lab-14)
+
+* [Heroku](https://nameless-lowlands-83867.herokuapp.com/)
+
 
 #### Documentation
-* [swagger](http://xyz.com) (API assignments only)
-* [jsdoc](http://xyz.com) (All assignments)
+* [jsdoc](https://nameless-lowlands-83867.herokuapp.com/docs)
 
 ### Modules
-#### `modulename.js`
-##### Exported Values and Methods
-
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
+Look at jsdocs
 
 ### Setup
 #### `.env` requirements
